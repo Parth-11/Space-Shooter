@@ -1,0 +1,4 @@
+{
+    "dotnet.defaultSolution": "Space Shooter.sln",
+    "dotnet.preferCSharpExtension": true
+}
